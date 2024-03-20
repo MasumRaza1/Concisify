@@ -4,8 +4,10 @@
   ![logo](https://github.com/MasumRaza1/50days-web/blob/main/concisify-darkmode.svg#gh-dark-mode-only)
   ![logo](https://github.com/MasumRaza1/Concisify/blob/main/src/assets/logo.svg#gh-light-mode-only)
   </div>
-
+ 
   <h1>Concisify</h1>
+  
+- [Netlify-Demo](https://65faaec1febdb85033e866a4--cute-gecko-5ced61.netlify.app/)
   
   <p>
    Concisify is a web application designed for summarizing articles efficiently. It leverages OpenAI's powerful GPT-4 model through the Rapid API. With a focus on clarity and conciseness, Concisify provides users with summarized versions of lengthy articles, making information more accessible and digestible.
